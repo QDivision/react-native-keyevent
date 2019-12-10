@@ -1,5 +1,5 @@
 {
-  "name": "react-native-keyevent",
+  "name": "@qdivision/react-native-keyevent",
   "version": "0.2.7",
   "description": "Capture external keyboard keys or remote control button events",
   "types": "index.d.ts",
@@ -16,10 +16,10 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kevinejohn/react-native-keyevent.git"
+    "url": "git+https://github.com/QDivision/react-native-keyevent"
   },
   "bugs": {
-    "url": "https://github.com/kevinejohn/react-native-keyevent/issues"
+    "url": "https://github.com/QDivision/react-native-keyevent/issues"
   },
   "peerDependencies": {
     "react-native": ">=0.30"
